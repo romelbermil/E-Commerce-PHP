@@ -1,0 +1,210 @@
+﻿
+/*-------------------------------------------*/	
+.site_login{ 
+	background:none;
+    color: #888;
+	font-family: 'PT Sans';
+    padding:9px;
+    border: 1px solid #444;
+	background:#222; 
+	
+	position:absolute; 
+	top:8px; 
+	right:10px;
+	width: auto; 
+	border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	
+}
+.site_login ul{
+	margin: 0;
+	list-style-type: none;
+	}
+
+.site_login ul li{ 
+	display:  inline-block; 
+	float:left;
+	color: #777; 
+	
+}
+.site_login ul li a{
+	
+	display: block;
+	padding-left:2px; 
+	padding-right:2px; 
+	color: #f4bc12; 
+	text-decoration: none;
+	}
+
+/*-------------------------------------------*/	
+.cart_view_top{
+	background:none;
+    color: #888;
+	font-family: candara;
+	position:absolute; 
+	top:8px; 
+	left:120px;
+	width: auto; 
+
+	}
+.cart_view_top img{
+	display: block;
+	float:left;
+	height:28px;
+	}
+.cart_view_top a{
+	
+	display: block;
+	float:left;
+	padding-left:5px; 
+	padding-top:8px; 
+	color: #f4bc12; 
+	text-decoration: none;
+	font-family: candara;
+	font-size:16px;
+
+	}
+.cart_view_top a span{ 
+	color: #3CF; 
+	text-decoration: none;
+	font-family: candara;
+	font-size:16px;
+	text-decoration: none !important;
+	}
+/*-------------------------------------------*/	
+.social_count_view_top{
+	background:none;
+    color: #888;
+	font-family: 'PT Sans';
+    padding:5px;
+	margin:0 auto;
+	width: 150px;
+	margin-top:5px; 
+	
+	}
+.terms_view_top{
+	background:none;
+    color: #888;
+	font-family: candara;
+    padding:5px;
+	position:absolute; 
+	top:5px; 
+	left:10px;
+	width: auto; 
+
+	}
+.terms_view_top img{
+	display: block;
+	float:left;
+	height:30px;
+	}
+.terms_view_top a{
+	
+	display: block;
+	float:left;
+	padding-left:5px; 
+	padding-top:5px; 
+	color: #f4bc12; 
+	text-decoration: none;
+	font-family: candara;
+	font-size:16px;
+
+	}
+/*-------------------------------------------*/	
+.logo
+{
+    width: 250px;
+    height: 68px;
+    display: block;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    color: #09F;
+}
+.logo img
+{
+    width: 250px;
+    height: 68px;
+}
+.logo h2
+{
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    color: #555;
+}
+
+
+.User_LoginPanel
+{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    color: #555;
+}
+.User_LoginPanel Label
+{
+    color: #555;
+}
+.User_LoginPanel a
+{
+    color: #555;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.User_LoginPanel a:hover
+{
+    color: #eee;
+}
+.User_LoginPanel .user_label
+{
+    color: Silver;
+}
+
+.social_link
+{
+	position:absolute;
+	top:10px;
+	right:10px;	
+	text-align:right;
+}
+.social_link ul
+{
+	margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.social_link ul li
+{
+	display:inline-block;
+}
+.social_link ul li img{
+	width:35px;
+	
+	}
+.social_link p
+{
+	color: #fff;
+	margin-top:5px;
+	text-align:right;
+	font-family:EngelLight;
+	font-size:15px;
+
+}
+.top_text{
+	position:absolute;
+	top:18px;
+	left:300px;	
+	text-align:left;
+	}
+
+	.top_text h2{
+	margin-top: 7px;
+	margin-left: 5px;
+	float: left;
+	color:#FC6;		
+		}
+/*-------------------------------------------*/	

@@ -1,0 +1,37 @@
+
+/* Feature section in ZoomEngine page */
+.zoom-section {	
+	clear:both;		
+}
+
+* html .zoom-section { 
+	display:inline;
+	clear:both;
+}
+/* Feature descriptions in ZoomEngine page */
+.zoom-desc {
+	float:left;
+	margin-left:10px;
+	width:310px;
+	margin-bottom:0px;
+
+}
+
+.zoom-small-image {
+	border:4px solid #CCC;
+	margin-bottom:0px;
+	width: 342px;
+}
+.zoom-small-image img {
+	width: 100%;
+}
+.zoom-tiny-image {
+	border:1px solid #CCC;
+	margin:0px;
+	
+}
+.zoom-tiny-image:hover {
+	border:1px solid #C00;		
+}
+
+

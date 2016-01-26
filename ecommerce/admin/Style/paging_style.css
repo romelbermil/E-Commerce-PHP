@@ -1,0 +1,93 @@
+﻿/* ---------------------------------------------------------------------------------- */
+
+.paginationGrid *
+{
+    margin: 0;
+}
+.paginationGrid
+{
+    position: relative;
+    background: #fff;
+    color: #e5e5e5;
+    padding-top: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.paginationGrid ul
+{
+    position: relative;
+    text-align: left;
+    margin: 0px;
+    padding: 2px 5px;
+}
+.paginationGrid ul li
+{
+    position: relative;
+    display: inline-block;
+}
+.paginationGrid ul li a:hover
+{
+    color: #329362;
+}
+.paginationGrid ul li a:link, .paginationGrid ul li a:visited, .paginationGrid ul li a:hover, .paginationGrid ul li a:active
+{
+    color: #ff5c1c;
+    text-decoration: none;
+}
+/* ---------------------------------------------------------------------------------- */
+.naVigate
+{
+    text-decoration: none;
+    padding: 2px 5px;
+    color: Red;
+    margin-right: 1px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    color: #5f6260;
+}
+
+/* ---------------------------------------------------------------------------------- */
+.indexNum
+{
+    position: relative;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 2px !important;
+}
+.indexNum a
+{
+    color: #ccc;
+    font-size:12px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border: 1px solid #ccc;
+    margin: 1px;
+    background: #eee;
+    border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+}
+.indexNum a:hover
+{
+    color: #9de10b;
+}
+/* ---------------------------------------------------------------------------------- */
+.paginationGrid span
+{
+    text-decoration: none;
+}
+.paginationGrid h4
+{
+    margin-top: -1.45em;
+    padding: 0;
+    border: none;
+}
+.currentPageStatus
+{
+    color: #16c5fe;
+    text-decoration: none;
+}
